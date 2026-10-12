@@ -5,97 +5,80 @@
 </p>
 
 <p align="center">
-  <b>Individuelle KI-Lösungen für die Baubranche</b> – entwickelt in Deutschland,<br>
-  betrieben auf lokalen Modellen, die Ihre Daten nicht aus dem Haus geben.
+  <b>Custom AI solutions for the construction industry</b> – developed in Germany,<br>
+  running on local models that keep your data in-house.
 </p>
 
 <p align="center">
   <a href="https://akinara.de">akinara.de</a> &nbsp;·&nbsp;
   <a href="mailto:info@akinara.de">info@akinara.de</a> &nbsp;·&nbsp;
-  Oldenburg
+  Oldenburg, Germany
 </p>
 
 ---
 
-## Was wir machen
+## What we do
 
-Wir entwickeln maßgeschneiderte KI-Werkzeuge mit klarem Schwerpunkt auf
-Architektur, Bauwesen und BIM. Wir kommen selbst aus der Baupraxis – Urban Design,
-Architektur, BIM – und kennen das Chaos vor Ort ebenso wie den Haufen an Normen
-und Gesetzen. Diese Erfahrung verbinden wir mit eigener Forschung.
+We build tailor-made AI tools with a clear focus on architecture, construction and
+BIM. We come from building practice ourselves – urban design, architecture, BIM –
+and know the chaos on site as well as the mountain of codes and regulations. We
+combine that experience with our own research.
 
-| | |
-|---|---|
-| **Beratung** | Kostenlose Erstberatung: wo KI in Ihren Abläufen wirklich hilft – und wo ein klassisches Werkzeug das Problem besser löst |
-| **Entwicklung** | Vom Prototyp bis zur laufenden Lösung – schlanke Werkzeuge statt Software von der Stange |
-| **Schulung** | Von „Was ist KI überhaupt?“ bis zum Hands-on-Workshop an echten Projektdaten |
+<table>
+  <tr>
+    <td><b>Consulting</b></td>
+    <td>A free initial consultation: where AI genuinely helps in your workflows – and where a conventional tool solves the problem better</td>
+  </tr>
+  <tr>
+    <td><b>Development</b></td>
+    <td>From prototype to production – lean tools instead of off-the-shelf software</td>
+  </tr>
+  <tr>
+    <td><b>Training</b></td>
+    <td>From “What is AI, anyway?” to hands-on workshops with real project data</td>
+  </tr>
+</table>
 
-Ein typisches Beispiel ist die **Modellprüfung**: Statt jedes Bauteil eines
-IFC-Modells von Hand gegen Türbreiten, Barrierefreiheit und Brandschutz abzugleichen,
-prüft ein Werkzeug das ganze Modell und erstellt einen strukturierten Bericht. Der
-Mensch plausibilisiert nur noch und gibt frei.
+A typical example is **model checking**: instead of manually checking every
+component of an IFC model against door widths, accessibility and fire safety
+requirements, a tool checks the entire model and produces a structured report. A
+person then only reviews the results and signs off.
 
-## Wie wir arbeiten
+## How we work
 
-- **KI ergänzt, sie ersetzt nicht.** Unsere Werkzeuge übernehmen Routine – die
-  finale Entscheidung trifft immer der Mensch.
-- **Datenschutz ist keine Fußnote.** Lokale Open-Source-Modelle statt US-Cloud: Sie
-  laufen auf Ihren eigenen Servern, auf Firmen-Hardware oder direkt auf dem Laptop.
-- **Ehrlich vor clever.** Nicht jede Aufgabe braucht KI. Wenn ein einfaches Werkzeug
-  besser passt, sagen wir das.
+- **AI supports, it doesn't replace.** Our tools take over routine work – the
+  final decision always rests with a person.
+- **Data protection is not a footnote.** Local open-source models instead of US
+  cloud services: they run on your own servers, on company hardware or directly
+  on a laptop.
+- **Honest over clever.** Not every task needs AI. If a simple tool fits better,
+  we'll tell you.
 
-## Produkte
+## Research
 
-**PollySort** sortiert ungeordnete Dateien automatisch in eine übersichtliche
-Projektstruktur und baut darauf Projektmanagement-Funktionen auf. Kostenlos für den
-privaten Gebrauch und die firmeninterne Nutzung.
+Since 2023 we have been researching the intersection of architecture and AI at
+[Jade University of Applied Sciences](https://www.jade-hs.de/) in Oldenburg – with
+the goal of building models that truly understand IFC and openBIM. What we learn
+flows directly into our tools.
 
-**EcoNode** ermöglicht ein Pre-Screening ganzer Gebäudecluster: die Betriebsenergie
-zuverlässig abschätzen, noch bevor die aufwendige Detailbilanzierung startet.
+At the 22nd buildingSMART user conference in Essen we presented **Mini-Spyra** and
+**IwI-Spyra**, models that analyse IFC files independently of any authoring
+software:
+[KI trifft BIM – interview with buildingSMART Deutschland](https://www.bsdplus.de/fachartikel/ki-trifft-bim-studierende-entwickeln-intelligente-modelle-zur-ifc-analyse.html) (in German)
 
-## Forschung
-
-Seit 2023 forschen wir an der [Jade Hochschule Oldenburg](https://www.jade-hs.de/)
-an der Schnittstelle von Architektur und KI – mit dem Ziel, Modelle zu bauen, die
-IFC und Open BIM wirklich verstehen. Die Erkenntnisse fließen direkt in unsere
-Werkzeuge.
-
-Auf dem 22. buildingSMART-Anwendertag haben wir mit **Mini-Spyra** und
-**IwI-Spyra** Modelle vorgestellt, die IFC-Dateien softwareunabhängig analysieren:
-[KI trifft BIM – Interview mit buildingSMART Deutschland](https://www.bsdplus.de/fachartikel/ki-trifft-bim-studierende-entwickeln-intelligente-modelle-zur-ifc-analyse.html)
-
-**Veröffentlichungen**
+**Publications**
 
 - [Spyra-20B: A Proof-of-Concept for Explicit Architectural Design Reasoning in Domain-Specialised LLMs](https://smartdpj.com/sdp/article/view/31) – *Smart Design Policies*, 2026
 - [AI-Driven Knowledge Transfer in Architectural Education](https://smartdpj.com/sdp/article/view/16) – *Smart Design Policies*, 2025
-- Wissensmanagement 2.0 – Die AUFLADEN KI für eine neue Dimension der Wissensvermittlung – *Oldenburger 3D-Tage und BIMtag 2025*, S. 282–291, Wichmann
-- [City in Crisis](https://ow.pw.edu.pl/miasto-w-kryzysie-wybrane-zagadnienia-urbanistyczne-architektoniczne-i-budownictwa-synergia-w-procesie-zielonej-transformacji/) – Beitrag in *Miasto w kryzysie*, Oficyna Wydawnicza PW, 2025
+- Wissensmanagement 2.0 – Die AUFLADEN KI für eine neue Dimension der Wissensvermittlung – *Oldenburger 3D-Tage and BIMtag 2025*, pp. 282–291, Wichmann (in German)
+- [City in Crisis](https://ow.pw.edu.pl/miasto-w-kryzysie-wybrane-zagadnienia-urbanistyczne-architektoniczne-i-budownictwa-synergia-w-procesie-zielonej-transformacji/) – chapter in *Miasto w kryzysie*, Oficyna Wydawnicza PW, 2025
 - [Possibilities and limits of AI-supported design processes in architecture](https://www.iccaua.com/PDFs/ICCAUA2024/Book_Chapter_AI/01_AI-Driven-1.pdf) – *ICCAUA*, 2024
 - AUFLADEN LAB – Parametric AI-supported design – *Oldenburg 3D Days and BIM Day 2024*, VDE Verlag
-
-## Team
-
-| | |
-|---|---|
-| **Nik Ansre** | Geschäftsführer · AI Engineering – technische Umsetzung, Machine Learning |
-| **Yara Hirsekorn** | Geschäftsführerin · Data – Auswahl, Aufbereitung und Pflege der Datensätze |
-| **Gregor Grunwald** | Gesellschafter · wissenschaftlicher Mentor |
-
-**2023** Forschungsbeginn an der Jade Hochschule &nbsp;→&nbsp; **2025** Gründung von
-AKINARA &nbsp;→&nbsp; **2026** erste Praxisprojekte im Bauwesen
-
-## Netzwerk
-
-[Jade Hochschule](https://www.jade-hs.de/) ·
-[Bohlen & Doyen](https://bohlen-doyen.com/) ·
-[Grundbaulabor Bremen](https://grundbaulabor.de/) ·
-[DoneUnder](https://doneunder.io/) ·
-[Tamashi Design](https://tamashidesign.com/)
 
 ---
 
 <p align="center">
-  Erzählen Sie uns kurz, woran Sie gerade arbeiten –
-  die Erstberatung ist kostenlos und unverbindlich.<br>
+  Tell us briefly what you're working on –
+  the initial consultation is free and non-binding.<br>
   <a href="mailto:info@akinara.de"><b>info@akinara.de</b></a>
 </p>
