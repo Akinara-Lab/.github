@@ -9,7 +9,7 @@
     <img src="assets/aozakura.png" alt="A cyan cherry tree on a floating island next to a torii gate. It grows with every commit we push." width="100%">
   </a>
   <br>
-  <sub><b>Aozakura</b> – our cherry tree grows with every commit. <a href="https://akinara-lab.github.io/"><b>Open the live 3D scene →</b></a></sub>
+  <sub>Our cherry tree grows with every commit. <a href="https://akinara-lab.github.io/"><b>Open the live 3D scene →</b></a></sub>
 </p>
 
 <p align="center">
