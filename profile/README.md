@@ -5,6 +5,14 @@
 </p>
 
 <p align="center">
+  <a href="https://akinara-lab.github.io/">
+    <img src="assets/aozakura.png" alt="A cyan cherry tree on a floating island next to a torii gate. It grows with every commit we push." width="100%">
+  </a>
+  <br>
+  <sub><b>青桜</b> – our cherry tree grows with every commit. <a href="https://akinara-lab.github.io/"><b>Open the live 3D scene →</b></a></sub>
+</p>
+
+<p align="center">
   <b>Custom AI solutions for the construction industry</b> – developed in Germany,<br>
   running on local models that keep your data in-house.
 </p>
